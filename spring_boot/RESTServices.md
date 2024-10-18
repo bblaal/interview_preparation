@@ -14,6 +14,7 @@ public class MyController {
         return "Hello, World!";
     }
 }
+```
 
 Here, the method `sayHello()` will return a simple string, but Spring will automatically convert objects to JSON or XML when needed.
 
